@@ -70,3 +70,5 @@ If the element is found, it returns the index. If not, it adjusts the left and r
 The search continues until the target is found or the interval is empty, in which case it returns -1.
 
 ### ***Output Screenshot*** :
+
+https://github.com/anikethmehta/LAB12/blob/main/code1.png
