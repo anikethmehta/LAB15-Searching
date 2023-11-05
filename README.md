@@ -80,3 +80,7 @@ https://github.com/anikethmehta/LAB12/blob/main/code2.png
 https://github.com/anikethmehta/LAB12/blob/main/code1_Bin.png
 
 https://github.com/anikethmehta/LAB12/blob/main/code2_Bin.png
+
+Output:
+
+https://github.com/anikethmehta/LAB12/blob/main/output_linear.png
