@@ -71,4 +71,8 @@ The search continues until the target is found or the interval is empty, in whic
 
 ### ***Output Screenshot*** :
 
+Code:
+
 https://github.com/anikethmehta/LAB12/blob/main/code1.png
+
+https://github.com/anikethmehta/LAB12/blob/main/code2.png
